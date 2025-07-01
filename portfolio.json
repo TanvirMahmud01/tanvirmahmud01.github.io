@@ -1,0 +1,190 @@
+{
+  "name": "Tanvir Mahmud",
+  "label": "Full Stack Developer | Software Engineer",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "mahmudtanvir888@gmail.com",
+    "phone": "",
+    "location": "Toronto, ON, Canada"
+  },
+  "summary": "Full Stack Developer with hands-on experience building web applications using React, .NET Core, Python, Java, and SQL Server. Passionate about scalable, cloud-based solutions and committed to clean, testable code. Proven ability to collaborate in Agile teams and deliver impactful software projects. Runner-up at Ontario Public Service Hackathon for chatbot innovation.",
+  "url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tanvir-mahmud-tm/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/TanvirMahmud01",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Legacy Heating and CoolingLegacy Heating and Cooling",
+      "position": "Full Stack Developer",
+      "url": "https://www.legacyheating.ca/",
+      "start_date": "03/01/2025",
+      "end_date": "Present",
+      "summary": "Design and develop custom CRM desktop applications using WPF and C#. Build robust backend logic with SQL Server and manage version control using Azure Repos.",
+      "highlights": [
+        "Built WPF desktop applications for CRM systems using C#, XAML, and the MVVM pattern.",
+        "Implemented key CRM features such as customer search filters, report generation, and audit logging.",
+        "Utilized Dapper ORM for lightweight and performant database access with SQL Server.",
+        "Developed and optimized SQL stored procedures and tables in SQL Server Management Studio.",
+        "Used Azure Repos for source control and collaborative development workflows."
+      ]
+    },
+    {
+      "company": "Government of Ontario – MCCSS",
+      "position": "Programmer (Co-op)",
+      "url": "https://www.ontario.ca/page/ministry-children-community-and-social-services",
+      "start_date": "11/01/2022",
+      "end_date": "04/27/2023",
+      "summary": "Developed internal tools and Python APIs to support data workflows and monitoring in a public sector environment.",
+      "highlights": [
+        "Supported internal applications by automating workflows and writing backend APIs using Python/Flask.",
+        "Monitored application performance and diagnosed system bottlenecks, improving system response time.",
+        "Collaborated with development and database teams to address integration and functionality issues.",
+        "Wrote scripts to extract system data from Linux servers for real-time analysis."
+      ]
+    },
+    {
+      "company": "Centennial College",
+      "position": "Technical Support Technician",
+      "url": "https://www.centennialcollege.ca/",
+      "start_date": "05/01/2022",
+      "end_date": "11/01/2022",
+      "summary": "Provided frontline support for campus-wide IT issues, system imaging, and documentation to enhance support services.",
+      "highlights": [
+        "Provided first-level technical support for academic software and enterprise applications.",
+        "Performed system imaging, OS deployment, and software installations for over 100 faculty/student devices.",
+        "Created and maintained setup and troubleshooting documentation for IT processes.",
+        "Assisted users in resolving software issues and provided training for application usage."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Inventory Management System",
+      "summary": "A full-stack ASP.NET Core app hosted on AWS for inventory control and access management.",
+      "url": "https://github.com/TanvirMahmud01/Inventory-Management-System",
+      "highlights": [
+        "Implemented role-based access control and form validation.",
+        "Integrated AWS RDS and S3 bucket for secure backend operations.",
+        "Deployed using Elastic Beanstalk with CI/CD integration."
+      ],
+      "images": []
+    },
+    {
+      "title": "Backend Monitoring Tool",
+      "summary": "A FastAPI application for monitoring server health and logging system alerts.",
+      "url": "",
+      "highlights": [
+        "Developed custom Python scripts to parse logs and generate alerts.",
+        "Tested and deployed REST endpoints for real-time health checks.",
+        "Streamlined error detection with proactive monitoring features."
+      ],
+      "images": []
+    }
+  ],
+  "volunteer_experience": [],
+  "education": [
+    {
+      "institution": "Centennial College",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.centennialcollege.ca/",
+      "degrees": ["Advanced Diploma in Software Engineering Technology"],
+      "honors": [],
+      "gpa_cumulative": "3.9",
+      "graduation_date": "December 2024"
+    },
+    {
+      "institution": "Ontario Tech University",
+      "location": "Oshawa, Ontario, Canada",
+      "url": "https://ontariotechu.ca/",
+      "degrees": ["Bachelor of Engineering - Automotive Engineering"],
+      "honors": ["Dean's List"],
+      "graduation_date": "05/01/2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C#",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "React.js",
+      "proficiency": 70,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Python (FastAPI, Flask)",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "ASP.NET Core",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Java",
+      "proficiency": 80,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Javascript",
+      "proficiency": 80,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "SQL Server",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Azure DevOps",
+      "proficiency": 80,
+      "proficiency_label": "Proficient"
+    },
+    { "name": "Git/GitHub", "proficiency": 90, "proficiency_label": "Advanced" }
+  ],
+  "interests": [
+    {
+      "name": "Open Source Contribution",
+      "summary": "Interested in contributing to Python, .NET, and DevOps-related projects to support collaborative software development.",
+      "images": []
+    },
+    {
+      "name": "Fintech Innovations",
+      "summary": "Exploring technologies that streamline payment systems and improve user experience in financial platforms.",
+      "images": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Lyle Williams",
+      "relation": "Former Supervisor at Centennial College",
+      "reference": "Tanvir demonstrated excellent technical and communication skills while supporting our IT infrastructure. He was dependable and took initiative on every task assigned."
+    },
+    {
+      "name": "Marcus Seong",
+      "relation": "Former Colleague",
+      "reference": "It was a pleasure working with Tanvir. He consistently showed strong problem-solving abilities and was always eager to help the team succeed."
+    }
+  ]
+}
