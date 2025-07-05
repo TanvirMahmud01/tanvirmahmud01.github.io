@@ -123,7 +123,7 @@
     },
     {
       "name": "Python (FastAPI, Flask)",
-      "proficiency": 85,
+      "proficiency": 80,
       "proficiency_label": "Advanced"
     },
     {
@@ -134,24 +134,28 @@
     {
       "name": "Java",
       "proficiency": 80,
-      "proficiency_label": "Proficient"
+      "proficiency_label": "Advanced"
     },
     {
       "name": "Javascript",
       "proficiency": 80,
-      "proficiency_label": "Proficient"
+      "proficiency_label": "Advanced"
     },
     {
       "name": "SQL Server",
-      "proficiency": 85,
+      "proficiency": 90,
       "proficiency_label": "Advanced"
     },
     {
       "name": "Azure DevOps",
       "proficiency": 80,
-      "proficiency_label": "Proficient"
+      "proficiency_label": "Advanced"
     },
-    { "name": "Git/GitHub", "proficiency": 90, "proficiency_label": "Advanced" }
+    {
+      "name": "Git/GitHub",
+      "proficiency": 90,
+      "proficiency_label": "Expert"
+    }
   ],
   "interests": [
     {
